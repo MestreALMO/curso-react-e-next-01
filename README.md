@@ -4,4 +4,5 @@ using jest:
 \*yarn test
 
 check tests coverage:
-\*yarn test --coverage
+\*yarn test -- --coverage
+o primeiro "--" é pra passar os dados direto pro jest
