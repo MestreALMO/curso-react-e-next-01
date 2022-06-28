@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<InfoCard /> should match snapshot 1`] = `
+<div
+  class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-15lq9tr-MuiPaper-root-MuiCard-root"
+>
+  <img
+    src="styled-components.png"
+    style="max-width: 400px;"
+  />
+  <div
+    class="MuiBox-root css-0"
+  >
+    <h4
+      class="MuiTypography-root MuiTypography-h4 css-5lbw0b-MuiTypography-root"
+    />
+    <p
+      class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+    />
+  </div>
+</div>
+`;
